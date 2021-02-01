@@ -1,0 +1,3 @@
+# EXCLUDING FOLDERS
+node_modules
+build
